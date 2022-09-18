@@ -40,6 +40,7 @@ void factorial() {
 }
 void arithmetic() {
 	// I recommend writing your arithmetic series code here
+
 	int temp1;
 	int temp2 = 0;
 
